@@ -1,5 +1,8 @@
 Insurance Premium Prediction :
 
+Live DEMO:
+https://gauravthakur-premium-prediction.streamlit.app/
+
 This project predicts the Annual Health Insurance Premium Amount for customers using demographic, lifestyle, income, and medical information. It includes a complete machine learning workflow and a Streamlit web application for real-time premium prediction.
 
 1. Project Objectives
